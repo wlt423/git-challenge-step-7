@@ -1,0 +1,142 @@
+[33mcommit edd91163ee3796b26067bf3bdb63e45a974548b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:25 2018 -0400
+
+    A starting point
+
+[33mcommit 90ea8eb3cf27e112ec0cd41f8bf0ce1567b84934[m[33m ([m[1;33mtag: moving[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:25 2018 -0400
+
+    Added substantial data for our purposes
+
+[33mcommit 640f0190eed92a6d13f7ccf8d0f4baeeb35f946b[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:25 2018 -0400
+
+    Added some minor new scripts
+
+[33mcommit c6e888ad2d7937aebb1c1a61f252106dd57421eb[m[33m ([m[1;33mtag: gimme-more[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Show me the money
+
+[33mcommit 290af5c461bebe4205a9e2d5dce975c5caf918c9[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Added some clojure links
+
+[33mcommit 9310c41176b8998d453fca5c6b32208541ccb326[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    A journey of a thousand steps begins with a single commit
+
+[33mcommit eaf9aa91b98ec30fca84199fbf11be87c4312a6d[m[33m ([m[1;33mtag: secret-tag[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    For the record, these are not good commit messages
+    
+    This is all just arbitrary structure for your practice. Don't take it as
+    a model of how to write these messages.
+
+[33mcommit 4363c7c45a94b578b7508888461c15b91bef41c9[m[33m ([m[1;33mtag: yay-clojure[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    A clojure fizzbuzz. Do the parentheses bother you?
+    
+    The syntax of clojure and other lisps is a strength. Trust the parens.
+
+[33mcommit 30be9d588307dfe1a41d923d6bc5fe71d351915c[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Python solutions to FizzBuzz: Are they reasonable?
+
+[33mcommit 44b77b64e19b80cccc63faf4a45b3509fee7bab1[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    If Frodo had a dog, he might have had an easier time
+    
+    It is true that dog < X but maybe dog + frodo > X where X=sauron. A
+    crazy thought perhaps. Let's not call Peter Jackson.
+
+[33mcommit 71fe036f59669761b4d3ba1e4cb6438bf253dc7e[m[33m ([m[1;33mtag: federation[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Algorithm plan. Is this plan sound?
+    
+    Need to flesh out the algorithm more fully.
+
+[33mcommit 41744e45ae5a1fc81428ed133b039fe766045a1a[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Stubs for the A scripts
+
+[33mcommit 047376b024d159a2004994c9f5812c067c7590e8[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Added a README.org, a bit late
+
+[33mcommit 83be95650618af5fd63a2a195c757cb303f1197d[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:24 2018 -0400
+
+    Tax return on a post-card, often already close
+    
+    Good point, Kevin.
+
+[33mcommit 58cd0f519baf9555a468cfce6452750f60298d3e[m[33m ([m[1;33mtag: shawshank[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Added light curve data from CfA3 project
+
+[33mcommit 4034500336c26c1da974b59f1c3b8d1ed4d555ab[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Added airplane route data in three text databases
+    
+    Each file has a .dat with the data and a .txt with the header.
+
+[33mcommit 0c12bdf2ac2d84d15a95535ebfff0004922b8389[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    More links, relating to various ongoing research projects
+
+[33mcommit 238098d289a8d1ae8c988153b73322565511ee3e[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Added several relevant sets of links plus a perl utility
+
+[33mcommit 6fdded01817be0bff25a29c1389735862c1ed4d2[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Added some basic information, including about Shawshank
+    
+    Note that Stephen King short stories have produced a couple very good
+    movies.
+
+[33mcommit 802617cbf107bc41eaa2d1123fb9d7f43a357748[m[33m ([m[1;33mtag: instructions[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Include instructions
+
+[33mcommit 600e9122875bd428c18d2298de475e19e4d05068[m[33m ([m[1;33mtag: the-beginning[m[33m)[m
+Author: Christopher R. Genovese <genovese@cmu.edu>
+Date:   Fri Sep 7 15:03:23 2018 -0400
+
+    Initialize directory structure
